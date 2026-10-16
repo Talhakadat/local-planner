@@ -190,7 +190,6 @@ Tüm senaryolar sabit seed ile tekrarlanabilir şekilde çalıştırılacak.
 | 8 | Arayüz geliştirilecek. | 
 | 9 | Gerçek araç testleri. |
 
-
 ## Açık Sorular
 -   ROS2 dağıtımı ve Gazebo sürümü?
 -   Araç modeli: Ackermann mı, diferansiyel sürüş mü?
